@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="param_admin_path" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Param Admin-Path</name>
+	<description>Adds the Admin-Path to XML-Parameters.</description>
+	<repo type="github">https://github.com/swiegmann/param_admin_path</repo>
+	<types>
+		<type>Other</type>
+	</types>
+	<authors>
+		<author>
+			<name>Stefan Wiegmann</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2019-10-23" min="2.2" />
+	</releases>
+</extension>
